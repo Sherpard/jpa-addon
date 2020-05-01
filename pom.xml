@@ -31,7 +31,7 @@
         <compatibility.skip>true</compatibility.skip>
 
         <bintray.package>jpa-addon</bintray.package>
-        <hibernate.version>5.3.7.Final</hibernate.version>
+        <hibernate.version>5.4.15.Final</hibernate.version>
     </properties>
 
     <build>
